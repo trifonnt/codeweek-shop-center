@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "codeweek.shopcenter",
+      "nativeLanguage": "bg"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "shopCenter",
+    "packageName": "codeweek.shopcenter",
+    "packageFolder": "codeweek/shopcenter",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDg3NWRmOWY5Y2UwMGE5ZDlmNDYyNWYyMDRhMTgxYjU0YzliODYwNmViNzZhMzcxYjcxMjUwMTIyODdjZDY3OGZhMjlhZWFiMDA3Y2Y3N2ZlODZlOWMxYjMxYWM1NjExYmI2NDE4MDliN2VjNzdkMzBhNzkzY2E4NDUxMDVkYzg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1666433515875,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "bg",
+    "languages": ["bg", "en", "de"],
+    "blueprints": []
+  }
+}
